@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.OddOccurrences", "P01.OddOccurrences\P01.OddOccurrences.csproj", "{FAB9400D-77DF-4D20-9C73-6B6CE6138E31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.CountRealNumbers", "P02.CountRealNumbers\P02.CountRealNumbers.csproj", "{F9EDF244-6A79-4EC4-8C13-121C01C89D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB9400D-77DF-4D20-9C73-6B6CE6138E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB9400D-77DF-4D20-9C73-6B6CE6138E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB9400D-77DF-4D20-9C73-6B6CE6138E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB9400D-77DF-4D20-9C73-6B6CE6138E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EDF244-6A79-4EC4-8C13-121C01C89D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EDF244-6A79-4EC4-8C13-121C01C89D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EDF244-6A79-4EC4-8C13-121C01C89D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EDF244-6A79-4EC4-8C13-121C01C89D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
