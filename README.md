@@ -1,0 +1,2 @@
+# SoftUni--Technology-Fundamentals
+Exercises
